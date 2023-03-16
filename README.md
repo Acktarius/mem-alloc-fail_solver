@@ -11,7 +11,7 @@ the purpose of this script if to solve the MEMORY ALLOC FAILURE message, using X
 `sudo chmod 755 mem-alloc-fail_solver.sh`
 
 
-run the bash script whit sudo privilege.
+run the bash script with sudo privilege.
 
 `sudo ./mem-alloc-fail_solver.sh`
 
