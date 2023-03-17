@@ -15,4 +15,4 @@ run the bash script with sudo privilege.
 
 `sudo ./mem-alloc-fail_solver.sh`
 
-reboot computer if memlock has been changed.
+if mem has been changed, log out from your session and log back in.
